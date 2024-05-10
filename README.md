@@ -1,4 +1,3 @@
-
 CSIS235 Final Project: Mobile Programming
 
 Welcome to my final project for CSIS235: Mobile Programming! This project showcases a collection of interactive guessing games developed using Swift and UIKit framework for iOS.
